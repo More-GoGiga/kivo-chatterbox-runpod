@@ -1,0 +1,2 @@
+runpod==1.9.1
+chatterbox-tts==0.1.7
